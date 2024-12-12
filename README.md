@@ -10,6 +10,7 @@ Federal de Minas Gerais como matéria obrigatória dos cursos de Ciências da Co
 
 - `Aprendizado`: Desenvolvido para aprimorar habilidades aprendidas durante o semestre cursado
 - `Diversão`: Todo o código resulta em um programa divertido para o usuário, que pode jogar!
+- `Desnvolvimento de habilidades lógicas`: Os jogos de tabuleiro tem um grande poder sobre a mente de seus jogadores. 
 
 # 👀 Objetivos
 
