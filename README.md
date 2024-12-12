@@ -31,10 +31,10 @@ Desenvolver aprendizados adquiridos no curso de PDS II, praticar a linguagem de 
 | [Gabrielly Xavier](https://github.com/gabyxsantos) |
 | :--------------------------------------------------------------------------------------------------------------------------------: |
 
-| [Júlia ](https://github.com/j-gmd) |
+| [Júlia Araújo](https://github.com/j-gmd) |
 | :--------------------------------------------------------------------------------------------------------------------------------: |
 
-| [Lívia Caroline](https://github.com/Livia-CRPereira) |
+| [Lívia Pereira](https://github.com/Livia-CRPereira) |
 | :--------------------------------------------------------------------------------------------------------------------------------: |
 
 | [Sophia Vieira](https://github.com) |
