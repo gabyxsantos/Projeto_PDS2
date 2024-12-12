@@ -9,8 +9,6 @@ Federal de Minas Gerais como matéria obrigatória dos cursos de Ciências da Co
 # 🔨 Funcionalidades do projeto
 
 - `Aprendizado`: Desenvolvido para aprimorar habilidades aprendidas durante o semestre cursado
-- `Organização de tarefas`: Com um projeto completo, precisamos organizar todo o processo
-- `Gestão de grupo`: Com um trabalho em grupo, tivemos desafios que precisaram ser superados e opiniões/interesses a serem interligadas
 - `Diversão`: Todo o código resulta em um programa divertido para o usuário, que pode jogar!
 
 # 👀 Objetivos
